@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\USER\Desktop\VHDL_source\MUX_2x2\VHDL\simulation\qsim
+vMUX_2x2
+Z1 IiRRFmj`6dFMEoYH[[03l32
+Z2 VVm=LnzlN=ZPL22W`l4Maz2
+Z3 dC:\Users\USER\Desktop\VHDL_source\MUX_2x2\VHDL\simulation\qsim
+Z4 w1521446365
+Z5 8MUX_2x2.vo
+Z6 FMUX_2x2.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@m@u@x_2x2
+!i10b 1
+Z10 !s100 cOkF7^Ghh1[K5K3:I;ZGP0
+!s85 0
+Z11 !s108 1521446368.039000
+Z12 !s107 MUX_2x2.vo|
+Z13 !s90 -work|work|MUX_2x2.vo|
+!s101 -O0
+vMUX_2x2_vlg_check_tst
+!i10b 1
+!s100 HjTF`Hbe98]:T1d3ZCdne3
+I3A7:JF@bMY0idWAZEF<bm3
+V>`PfQP[Gm<?JXRSdYH>5<1
+R3
+Z14 w1521446363
+Z15 8MUX_2x2.vt
+Z16 FMUX_2x2.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z17 !s108 1521446368.413000
+Z18 !s107 MUX_2x2.vt|
+Z19 !s90 -work|work|MUX_2x2.vt|
+!s101 -O0
+R8
+n@m@u@x_2x2_vlg_check_tst
+vMUX_2x2_vlg_sample_tst
+!i10b 1
+!s100 PV^@VlN8Wc2GSNR1BJN7M0
+I6kUSH;::i4BBX^zM@_JHQ2
+VBV;17WoR:Y`N<VC0UO;_V2
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@m@u@x_2x2_vlg_sample_tst
+vMUX_2x2_vlg_vec_tst
+!i10b 1
+!s100 CeSEU;<^748`=PBdZCHdY1
+I[7ABQ3aYE0XUEkiEcll3W3
+VZ3z_oTa9STI0i8ZZhf;=N1
+R3
+R14
+R15
+R16
+L0 173
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@m@u@x_2x2_vlg_vec_tst

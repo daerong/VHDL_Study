@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\USER\Desktop\VHDL_source\Decoder\VHDL\simulation\qsim
+vdecoder_2x4
+Z1 I50Jg`Cz9HUD8@P<b][PEz0
+Z2 V[D05`^n_a>IDj;L?j8F[m1
+Z3 dC:\Users\USER\Desktop\VHDL_source\Decoder\VHDL\simulation\qsim
+Z4 w1521452722
+Z5 8decoder_2x4.vo
+Z6 Fdecoder_2x4.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 i32N;fMP41j^3aBlAg=3I1
+!s85 0
+Z10 !s108 1521452723.398000
+Z11 !s107 decoder_2x4.vo|
+Z12 !s90 -work|work|decoder_2x4.vo|
+!s101 -O0
+vdecoder_2x4_vlg_check_tst
+!i10b 1
+!s100 No;9^D?XN>8?Z>@j3zYF@3
+I5icc[KgdXcm<Bjznj]>W<3
+V9B6^m7c=MVRE;[9_8Pe`X3
+R3
+Z13 w1521452721
+Z14 8decoder_2x4.vt
+Z15 Fdecoder_2x4.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z16 !s108 1521452723.668000
+Z17 !s107 decoder_2x4.vt|
+Z18 !s90 -work|work|decoder_2x4.vt|
+!s101 -O0
+R8
+vdecoder_2x4_vlg_sample_tst
+!i10b 1
+!s100 519ISlAdnWLSIELBHG:1;0
+I4;]eaf<_Plo;NiA@C?U^32
+V8;VFX3PQoaL:Wl[5Fh<1_0
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vdecoder_2x4_vlg_vec_tst
+!i10b 1
+!s100 NmC>>[;XLSa[]7DidR<PR1
+IoP:3VmOLhN;om>8[U`4PI0
+V0[gj^F2SJ863R3bgh^DQ63
+R3
+R13
+R14
+R15
+L0 235
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8

@@ -1,0 +1,10 @@
+vendor_name = ModelSim
+source_file = 1, D:/2011144024/MUX_2x1/schemetic/MUX_2x1.bdf
+source_file = 1, D:/2011144024/MUX_2x1/schemetic/MUX_2x1.vwf
+source_file = 1, D:/2011144024/MUX_2x1/schemetic/db/MUX_2x1.cbx.xml
+design_name = MUX_2x1
+instance = comp, \B~I , B, MUX_2x1, 1
+instance = comp, \A~I , A, MUX_2x1, 1
+instance = comp, \SEL~I , SEL, MUX_2x1, 1
+instance = comp, \inst2~0 , inst2~0, MUX_2x1, 1
+instance = comp, \Y~I , Y, MUX_2x1, 1

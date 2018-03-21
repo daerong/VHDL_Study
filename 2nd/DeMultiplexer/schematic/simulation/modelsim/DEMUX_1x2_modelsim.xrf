@@ -1,0 +1,8 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/USER/Desktop/VHDL_source/DeMultiplexer/schematic/DEMUX_1x2.bdf
+source_file = 1, C:/Users/USER/Desktop/VHDL_source/DeMultiplexer/schematic/db/DEMUX_1x2.cbx.xml
+design_name = DEMUX_1x2
+instance = comp, \pin_name3~I\, pin_name3, DEMUX_1x2, 1
+instance = comp, \pin_name1~I\, pin_name1, DEMUX_1x2, 1
+instance = comp, \pin_name2~I\, pin_name2, DEMUX_1x2, 1
+instance = comp, \pin_name4~I\, pin_name4, DEMUX_1x2, 1

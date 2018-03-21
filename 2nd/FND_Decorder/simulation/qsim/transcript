@@ -1,0 +1,29 @@
+# do FND_Decorder.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module FND_Decorder
+# 
+# Top level modules:
+# 	FND_Decorder
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module FND_Decorder_vlg_sample_tst
+# -- Compiling module FND_Decorder_vlg_check_tst
+# -- Compiling module FND_Decorder_vlg_vec_tst
+# 
+# Top level modules:
+# 	FND_Decorder_vlg_vec_tst
+# vsim -L cycloneii_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.FND_Decorder_vlg_vec_tst 
+# Loading work.FND_Decorder_vlg_vec_tst
+# Loading work.FND_Decorder
+# Loading cycloneii_ver.cycloneii_io
+# Loading cycloneii_ver.cycloneii_mux21
+# Loading cycloneii_ver.cycloneii_dffe
+# Loading cycloneii_ver.cycloneii_asynch_io
+# Loading cycloneii_ver.cycloneii_lcell_comb
+# Loading work.FND_Decorder_vlg_sample_tst
+# Loading work.FND_Decorder_vlg_check_tst
+# Loading cycloneii_ver.CYCLONEII_PRIM_DFFE
+# Simulation passed !
+# ** Note: $finish    : FND_Decorder.vt(255)
+#    Time: 1 us  Iteration: 0  Instance: /FND_Decorder_vlg_vec_tst/tb_out
