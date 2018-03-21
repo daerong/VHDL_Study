@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\2011144024\xnor_gate\simulation\qsim
+vxnor_gate
+Z1 I_dS@:XA:9Hjz7OO`A[SY_1
+Z2 V1d^7aWLD=BihgEk:_0^Sf0
+Z3 dD:\2011144024\xnor_gate\simulation\qsim
+Z4 w1520823882
+Z5 8xnor_gate.vo
+Z6 Fxnor_gate.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|xnor_gate.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 >0HOIAW?gZgeL=@PdRkXX0
+!s85 0
+Z11 !s108 1520823883.145000
+Z12 !s107 xnor_gate.vo|
+!s101 -O0
+vxnor_gate_vlg_check_tst
+!i10b 1
+Z13 !s100 EonULXaK<HmYjIZVm1K;^2
+Z14 IZ43;i:FKaf[^P;a=QjY0P1
+Z15 VIFNA?0mOYJ:VH>KB?d5GY1
+R3
+Z16 w1520823881
+Z17 8xnor_gate.vt
+Z18 Fxnor_gate.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z19 !s108 1520823883.223000
+Z20 !s107 xnor_gate.vt|
+Z21 !s90 -work|work|xnor_gate.vt|
+!s101 -O0
+R9
+vxnor_gate_vlg_sample_tst
+!i10b 1
+Z22 !s100 _913Z7GLz>Q8]<B7ll37M1
+Z23 IEFTWW7J2DS2nO84c^SG]A1
+Z24 VWnaFN3Qo9Y2g5eYc^XX8g2
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vxnor_gate_vlg_vec_tst
+!i10b 1
+Z25 !s100 iNnEHnXZX3lm^US@S7S2b3
+Z26 I26cm]8ff4n2ZGb8D]PD__1
+Z27 VBePWF4=WA[@_=Xi8`AGFR2
+R3
+R16
+R17
+R18
+Z28 L0 154
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9

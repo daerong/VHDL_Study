@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\2011144024\and_gate\simulation\qsim
+vand_gate
+Z1 !s100 I:moWeQm=mj^Q[J55Id6^2
+Z2 I5_Sl@@N:<oHKkNE@AMmB90
+Z3 V_9oJ1>06;HZA;@KU5cK;20
+Z4 dD:\2011144024\and_gate\simulation\qsim
+Z5 w1520821528
+Z6 8and_gate.vo
+Z7 Fand_gate.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|and_gate.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1520821528.873000
+Z12 !s107 and_gate.vo|
+!s101 -O0
+vand_gate_vlg_check_tst
+!i10b 1
+Z13 !s100 R00H7;6D=9WTTMHlCnA492
+Z14 IZm;I7:ENRjBEC68dC>dAd3
+Z15 VkZOUUL8`:hXS^KdG3QP@l0
+R4
+Z16 w1520821527
+Z17 8and_gate.vt
+Z18 Fand_gate.vt
+L0 59
+R8
+r1
+!s85 0
+31
+Z19 !s108 1520821529.014000
+Z20 !s107 and_gate.vt|
+Z21 !s90 -work|work|and_gate.vt|
+!s101 -O0
+R10
+vand_gate_vlg_sample_tst
+!i10b 1
+Z22 !s100 ka10P<G^5A]55<cmKSD_I0
+Z23 IDn;8e8>YP>1A]BFH3FUEC1
+Z24 V72eb=X0l0`^^7YneK``LJ1
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vand_gate_vlg_vec_tst
+!i10b 1
+Z25 !s100 8]Ro<ZGFRaD?Y8fRff3P@3
+Z26 IE0We<;<CEibkX^a[B=:6?1
+Z27 V_RNPLgejQ4@:Jl`O1^me>1
+R4
+R16
+R17
+R18
+Z28 L0 154
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10

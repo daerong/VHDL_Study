@@ -1,0 +1,8 @@
+vendor_name = ModelSim
+source_file = 1, D:/2011144024/and_gate/and_gate.bdf
+source_file = 1, D:/2011144024/and_gate/and_gate.vwf
+source_file = 1, D:/2011144024/and_gate/db/and_gate.cbx.xml
+design_name = and_gate
+instance = comp, \input_A~I , input_A, and_gate, 1
+instance = comp, \input_B~I , input_B, and_gate, 1
+instance = comp, \output_Y~I , output_Y, and_gate, 1

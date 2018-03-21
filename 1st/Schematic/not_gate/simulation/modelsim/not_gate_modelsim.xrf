@@ -1,0 +1,7 @@
+vendor_name = ModelSim
+source_file = 1, D:/2011144024/not_gate/not_gate.bdf
+source_file = 1, D:/2011144024/not_gate/not_gate.vwf
+source_file = 1, D:/2011144024/not_gate/db/not_gate.cbx.xml
+design_name = not_gate
+instance = comp, \pin_name1~I , pin_name1, not_gate, 1
+instance = comp, \pin_name2~I , pin_name2, not_gate, 1

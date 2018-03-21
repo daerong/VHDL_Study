@@ -1,0 +1,8 @@
+vendor_name = ModelSim
+source_file = 1, D:/2011144024/or_gate/or_gate.bdf
+source_file = 1, D:/2011144024/or_gate/or_gate.vwf
+source_file = 1, D:/2011144024/or_gate/db/or_gate.cbx.xml
+design_name = or_gate
+instance = comp, \pin_name1~I , pin_name1, or_gate, 1
+instance = comp, \pin_name2~I , pin_name2, or_gate, 1
+instance = comp, \pin_name3~I , pin_name3, or_gate, 1
