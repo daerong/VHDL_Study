@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\USER\Desktop\VHDL_source\VHDL\xnor_gate\simulation\qsim
+vxnor_gate
+Z1 IFMQ:Y7>mJ4eRl==CeiAjA1
+Z2 VT^Dh>5BnY]]zC^^?53@_d1
+Z3 dC:\Users\USER\Desktop\VHDL_source\VHDL\xnor_gate\simulation\qsim
+Z4 w1521195256
+Z5 8xnor_gate.vo
+Z6 Fxnor_gate.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 XYP?K1KUcC[IhN3:7Gc[z2
+!s85 0
+Z10 !s108 1521195257.211000
+Z11 !s107 xnor_gate.vo|
+Z12 !s90 -work|work|xnor_gate.vo|
+!s101 -O0
+vxnor_gate_vlg_check_tst
+!i10b 1
+!s100 MQ7fEaRf]z1mC1kZVFnN<3
+Il_eWzCJiz:;jXc>>zW2Q?2
+VliDj8Gi=JRMCW=?<U=TI?3
+R3
+Z13 w1521195255
+Z14 8xnor_gate.vt
+Z15 Fxnor_gate.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z16 !s108 1521195257.309000
+Z17 !s107 xnor_gate.vt|
+Z18 !s90 -work|work|xnor_gate.vt|
+!s101 -O0
+R8
+vxnor_gate_vlg_sample_tst
+!i10b 1
+!s100 N`i[3U@CJNFk_OH_7FUn20
+IzM4eXhUaaUIUT@4f@7nGP2
+Va8XGLLaaYO]G6NNNO=6B>2
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vxnor_gate_vlg_vec_tst
+!i10b 1
+!s100 SmBfaeSb4m>S8iT2=:Y^X1
+I38GeI:JT^K8kOFggXDY4D3
+VBePWF4=WA[@_=Xi8`AGFR2
+R3
+R13
+R14
+R15
+L0 154
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8

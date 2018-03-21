@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/USER/Desktop/VHDL_source/VHDL/not_gate/not_gate.vhd
+source_file = 1, C:/Users/USER/Desktop/VHDL_source/VHDL/not_gate/not_gate.vwf
+source_file = 1, C:/Users/USER/Desktop/VHDL_source/VHDL/not_gate/db/not_gate.cbx.xml
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = not_gate
+instance = comp, \A~I , A, not_gate, 1
+instance = comp, \Y~I , Y, not_gate, 1

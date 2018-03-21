@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\USER\Desktop\VHDL_source\VHDL\not_gate\simulation\qsim
+vnot_gate
+Z1 I@G;7]`SUXGX1kXiR:4hI40
+Z2 V0Q^C1dWEn;FdKl2APJG<22
+Z3 dC:\Users\USER\Desktop\VHDL_source\VHDL\not_gate\simulation\qsim
+Z4 w1521194120
+Z5 8not_gate.vo
+Z6 Fnot_gate.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|not_gate.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 z2CRL70b>nF1ZJmAoeCTU2
+!s85 0
+Z11 !s108 1521194121.489000
+Z12 !s107 not_gate.vo|
+!s101 -O0
+vnot_gate_vlg_check_tst
+!i10b 1
+!s100 :1VK8UWjcX>L?:]bD^2_Y1
+ITGEW64U6XCn63OKi0i@Co1
+Z13 V4:R;7R[i4g7A^?@T[clVn2
+R3
+Z14 w1521194119
+Z15 8not_gate.vt
+Z16 Fnot_gate.vt
+L0 57
+R7
+r1
+!s85 0
+31
+Z17 !s108 1521194121.728000
+Z18 !s107 not_gate.vt|
+Z19 !s90 -work|work|not_gate.vt|
+!s101 -O0
+R9
+vnot_gate_vlg_sample_tst
+!i10b 1
+!s100 _iI@I4Jnklebk>mPg[:1V2
+I=]Hl:5BezYU?4QU03LL1B0
+VPF:RJ9bUba8lG_>O3lR?83
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+vnot_gate_vlg_vec_tst
+!i10b 1
+!s100 VJBIW5HBnUkihUjAM?cZG3
+I26jTSMh06h^CP8_LkPn:o2
+Z20 V=4OD8BGh:]<9JmjQa8VZE2
+R3
+R14
+R15
+R16
+L0 152
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9

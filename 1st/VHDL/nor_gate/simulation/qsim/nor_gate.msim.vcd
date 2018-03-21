@@ -1,0 +1,84 @@
+$comment
+	File created using the following command:
+		vcd file nor_gate.msim.vcd -direction
+$end
+$date
+	Fri Mar 16 19:06:31 2018
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module nor_gate_vlg_vec_tst $end
+$var reg 1 ! A $end
+$var reg 1 " B $end
+$var wire 1 # Y $end
+$var wire 1 $ sampler $end
+$scope module i1 $end
+$var wire 1 % gnd $end
+$var wire 1 & vcc $end
+$var wire 1 ' unknown $end
+$var tri1 1 ( devclrn $end
+$var tri1 1 ) devpor $end
+$var tri1 1 * devoe $end
+$var wire 1 + A~combout $end
+$var wire 1 , B~combout $end
+$var wire 1 - Y~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+x#
+x$
+0%
+1&
+x'
+1(
+1)
+1*
+0+
+0,
+x-
+$end
+#1061
+0-
+#4428
+1#
+#70000
+1!
+0$
+#70979
+1+
+#72040
+1-
+#75407
+0#
+#80000
+1"
+0!
+1$
+#80979
+0+
+1,
+#90000
+1!
+0$
+#90979
+1+
+#100000
+0"
+0!
+1$
+#100979
+0+
+0,
+#102040
+0-
+#105407
+1#
+#1000000

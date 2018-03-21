@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/USER/Desktop/VHDL_source/VHDL/or_gate/or_gate.vhd
+source_file = 1, C:/Users/USER/Desktop/VHDL_source/VHDL/or_gate/or_gate.vwf
+source_file = 1, C:/Users/USER/Desktop/VHDL_source/VHDL/or_gate/db/or_gate.cbx.xml
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = or_gate
+instance = comp, \A~I , A, or_gate, 1
+instance = comp, \B~I , B, or_gate, 1
+instance = comp, \Y~0 , Y~0, or_gate, 1
+instance = comp, \Y~I , Y, or_gate, 1
