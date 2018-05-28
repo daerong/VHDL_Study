@@ -1,0 +1,30 @@
+|counter_60
+nRst => count_ten[0].ACLR
+nRst => count_ten[1].ACLR
+nRst => count_ten[2].ACLR
+nRst => count_ten[3].ACLR
+nRst => count_one[0].ACLR
+nRst => count_one[1].ACLR
+nRst => count_one[2].ACLR
+nRst => count_one[3].ACLR
+nRst => count_carry.ENA
+clk => count_carry.CLK
+clk => count_ten[0].CLK
+clk => count_ten[1].CLK
+clk => count_ten[2].CLK
+clk => count_ten[3].CLK
+clk => count_one[0].CLK
+clk => count_one[1].CLK
+clk => count_one[2].CLK
+clk => count_one[3].CLK
+digit_one[0] <= count_one[0].DB_MAX_OUTPUT_PORT_TYPE
+digit_one[1] <= count_one[1].DB_MAX_OUTPUT_PORT_TYPE
+digit_one[2] <= count_one[2].DB_MAX_OUTPUT_PORT_TYPE
+digit_one[3] <= count_one[3].DB_MAX_OUTPUT_PORT_TYPE
+digit_ten[0] <= count_ten[0].DB_MAX_OUTPUT_PORT_TYPE
+digit_ten[1] <= count_ten[1].DB_MAX_OUTPUT_PORT_TYPE
+digit_ten[2] <= count_ten[2].DB_MAX_OUTPUT_PORT_TYPE
+digit_ten[3] <= count_ten[3].DB_MAX_OUTPUT_PORT_TYPE
+carry <= count_carry.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\USER\Desktop\VHDL_source\counter_60\simulation\qsim
+vcounter_60
+Z1 IBUzSlkZ]fOm<cV2;bD`E>3
+Z2 VG8P@A=jFLnBM1`;56ga[D1
+Z3 dC:\Users\USER\Desktop\VHDL_source\counter_60\simulation\qsim
+Z4 w1523363765
+Z5 8counter_60.vo
+Z6 Fcounter_60.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|counter_60.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 7S=JoaM<<JTdo4]nD?U[O2
+!s85 0
+Z11 !s108 1523363766.632000
+Z12 !s107 counter_60.vo|
+!s101 -O0
+vcounter_60_vlg_check_tst
+!i10b 1
+Z13 !s100 V_8f=kK0Kc@<zinVk6:>Z3
+Z14 IZYG2N[YB5T=M^IA7jNj^]1
+Z15 VH2JdBN7N^Ai__<A>zfCmg1
+R3
+Z16 w1523363764
+Z17 8counter_60.vt
+Z18 Fcounter_60.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z19 !s108 1523363766.784000
+Z20 !s107 counter_60.vt|
+Z21 !s90 -work|work|counter_60.vt|
+!s101 -O0
+R9
+vcounter_60_vlg_sample_tst
+!i10b 1
+Z22 !s100 n4EKl;:9CMUSfFQ:9jZ>B3
+Z23 IMHK^QGSa6g_H283Q=]9FC3
+Z24 V6=3C`knH<`@h3];oJZG`G3
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vcounter_60_vlg_vec_tst
+!i10b 1
+Z25 !s100 3dbCkX[@H3[RI_M<]>Td82
+Z26 IkXGEDBCe]FCXECIo_E`aR1
+Z27 VF1g>bo;zbOQa<@igA[E<h0
+R3
+R16
+R17
+R18
+Z28 L0 314
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9

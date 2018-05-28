@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\USER\Desktop\VHDL_source\multiplexer\simulation\qsim
+vmultiplexer
+Z1 IQED`Fegj5Y9?EiO@@<oGB2
+Z2 V3RYE=9_[GlXMh=24B<EVb2
+Z3 dC:\Users\USER\Desktop\VHDL_source\multiplexer\simulation\qsim
+Z4 w1523365729
+Z5 8multiplexer.vo
+Z6 Fmultiplexer.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 :J?=?D?9=ga7B:R=z<Bg11
+!s85 0
+Z10 !s108 1523365730.332000
+Z11 !s107 multiplexer.vo|
+Z12 !s90 -work|work|multiplexer.vo|
+!s101 -O0
+vmultiplexer_vlg_check_tst
+!i10b 1
+!s100 iKMK[iJ2e0`2^OK0[^TaG3
+I6J:2n@Go;BXG^Yd_F:Zil2
+VJ]`FLZ9dENnY134czFz082
+R3
+Z13 w1523365728
+Z14 8multiplexer.vt
+Z15 Fmultiplexer.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z16 !s108 1523365730.497000
+Z17 !s107 multiplexer.vt|
+Z18 !s90 -work|work|multiplexer.vt|
+!s101 -O0
+R8
+vmultiplexer_vlg_sample_tst
+!i10b 1
+!s100 8doPCH0[O^`e2FS=oC49g3
+IPY6Y[S2fbAkdTMN00zDKz3
+Vn6JBPVCH2zg8TOYY]9bRa3
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vmultiplexer_vlg_vec_tst
+!i10b 1
+!s100 f0TbTICco0o@F;GcE`G5b1
+IbWo0E_J_jbPa;^CgDlI;S2
+Vo:9j5>Td>^XP]R;fm:S323
+R3
+R13
+R14
+R15
+L0 156
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
