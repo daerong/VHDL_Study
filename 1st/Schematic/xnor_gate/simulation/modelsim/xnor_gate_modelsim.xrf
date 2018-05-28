@@ -1,8 +1,0 @@
-vendor_name = ModelSim
-source_file = 1, D:/2011144024/xnor_gate/xnor_gate.bdf
-source_file = 1, D:/2011144024/xnor_gate/xnor_gate.vwf
-source_file = 1, D:/2011144024/xnor_gate/db/xnor_gate.cbx.xml
-design_name = xnor_gate
-instance = comp, \pin_name1~I , pin_name1, xnor_gate, 1
-instance = comp, \pin_name2~I , pin_name2, xnor_gate, 1
-instance = comp, \pin_name3~I , pin_name3, xnor_gate, 1
