@@ -1,0 +1,6 @@
+
+State Machine - |dual_counter|state
+Name state.STATE_B state.STATE_A state.IDLE 
+state.IDLE 0 0 0 
+state.STATE_A 0 1 1 
+state.STATE_B 1 0 1 

@@ -1,0 +1,14 @@
+
+State Machine - |adc_converter|adc:ADC_Model|state
+Name state.DATA_OE state.CPLT_CONV state.WAIT_CONV state.IDLE 
+state.IDLE 0 0 0 0 
+state.WAIT_CONV 0 0 1 1 
+state.CPLT_CONV 0 1 0 1 
+state.DATA_OE 1 0 0 1 
+
+State Machine - |adc_converter|adc_control:ADC_Controller|state
+Name state.DATA_READ state.WAIT_CONV state.START state.IDLE 
+state.IDLE 0 0 0 0 
+state.START 0 0 1 1 
+state.WAIT_CONV 0 1 0 1 
+state.DATA_READ 1 0 0 1 

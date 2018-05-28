@@ -1,0 +1,7 @@
+
+State Machine - |adc|state
+Name state.DATA_OE state.CPLT_CONV state.WAIT_CONV state.IDLE 
+state.IDLE 0 0 0 0 
+state.WAIT_CONV 0 0 1 1 
+state.CPLT_CONV 0 1 0 1 
+state.DATA_OE 1 0 0 1 

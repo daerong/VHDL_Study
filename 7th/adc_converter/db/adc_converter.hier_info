@@ -1,0 +1,122 @@
+|adc_converter
+nRst => sec_gen:sec_generator.nRst
+nRst => adc_control:ADC_Controller.nRst
+nRst => adc:ADC_Model.nRst
+clk => sec_gen:sec_generator.clk
+t => adc_control:ADC_Controller.t
+data[0] <= adc:ADC_Model.data[0]
+data[1] <= adc:ADC_Model.data[1]
+data[2] <= adc:ADC_Model.data[2]
+data[3] <= adc:ADC_Model.data[3]
+
+
+|adc_converter|sec_gen:sec_generator
+nRst => cnt[0].ACLR
+nRst => cnt[1].ACLR
+nRst => cnt[2].ACLR
+nRst => cnt[3].ACLR
+nRst => cnt[4].ACLR
+nRst => cnt[5].ACLR
+nRst => cnt[6].ACLR
+nRst => cnt[7].ACLR
+nRst => cnt[8].ACLR
+nRst => cnt[9].ACLR
+nRst => cnt[10].ACLR
+nRst => cnt[11].ACLR
+nRst => cnt[12].ACLR
+nRst => cnt[13].ACLR
+nRst => cnt[14].ACLR
+nRst => cnt[15].ACLR
+nRst => cnt[16].ACLR
+nRst => cnt[17].ACLR
+nRst => cnt[18].ACLR
+nRst => cnt[19].ACLR
+nRst => cnt[20].ACLR
+nRst => cnt[21].ACLR
+nRst => cnt[22].ACLR
+nRst => cnt[23].ACLR
+nRst => cnt[24].ACLR
+nRst => cnt[25].ACLR
+nRst => cnt[26].ACLR
+nRst => cnt[27].ACLR
+nRst => cnt[28].ACLR
+nRst => cnt[29].ACLR
+nRst => cnt[30].ACLR
+nRst => cnt[31].ACLR
+nRst => sig.ACLR
+clk => cnt[0].CLK
+clk => cnt[1].CLK
+clk => cnt[2].CLK
+clk => cnt[3].CLK
+clk => cnt[4].CLK
+clk => cnt[5].CLK
+clk => cnt[6].CLK
+clk => cnt[7].CLK
+clk => cnt[8].CLK
+clk => cnt[9].CLK
+clk => cnt[10].CLK
+clk => cnt[11].CLK
+clk => cnt[12].CLK
+clk => cnt[13].CLK
+clk => cnt[14].CLK
+clk => cnt[15].CLK
+clk => cnt[16].CLK
+clk => cnt[17].CLK
+clk => cnt[18].CLK
+clk => cnt[19].CLK
+clk => cnt[20].CLK
+clk => cnt[21].CLK
+clk => cnt[22].CLK
+clk => cnt[23].CLK
+clk => cnt[24].CLK
+clk => cnt[25].CLK
+clk => cnt[26].CLK
+clk => cnt[27].CLK
+clk => cnt[28].CLK
+clk => cnt[29].CLK
+clk => cnt[30].CLK
+clk => cnt[31].CLK
+clk => sig.CLK
+sec_sig <= sig.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|adc_converter|adc_control:ADC_Controller
+nRst => oe~reg0.ACLR
+nRst => sc~reg0.ACLR
+nRst => state~5.DATAIN
+clk => oe~reg0.CLK
+clk => sc~reg0.CLK
+clk => state~3.DATAIN
+t => sc.DATAB
+t => Selector0.IN2
+dr => oe.DATAB
+dr => Selector1.IN2
+sc <= sc~reg0.DB_MAX_OUTPUT_PORT_TYPE
+oe <= oe~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|adc_converter|adc:ADC_Model
+nRst => cnt[0].ACLR
+nRst => cnt[1].ACLR
+nRst => cnt[2].ACLR
+nRst => cnt[3].ACLR
+nRst => dr~reg0.ACLR
+nRst => state~7.DATAIN
+clk => cnt[0].CLK
+clk => cnt[1].CLK
+clk => cnt[2].CLK
+clk => cnt[3].CLK
+clk => dr~reg0.CLK
+clk => state~5.DATAIN
+dr <= dr~reg0.DB_MAX_OUTPUT_PORT_TYPE
+sc => Selector1.IN3
+sc => Selector0.IN2
+oe => Selector3.IN3
+oe => Selector4.IN2
+oe => Selector2.IN2
+data[0] <= data.DB_MAX_OUTPUT_PORT_TYPE
+data[1] <= data.DB_MAX_OUTPUT_PORT_TYPE
+data[2] <= data.DB_MAX_OUTPUT_PORT_TYPE
+data[3] <= data.DB_MAX_OUTPUT_PORT_TYPE
+
+

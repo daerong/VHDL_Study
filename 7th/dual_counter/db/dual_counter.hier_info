@@ -1,0 +1,22 @@
+|dual_counter
+nRst => cnt[0].ACLR
+nRst => cnt[1].ACLR
+nRst => cnt[2].ACLR
+nRst => cnt[3].ACLR
+nRst => state~23.DATAIN
+clk => cnt[0].CLK
+clk => cnt[1].CLK
+clk => cnt[2].CLK
+clk => cnt[3].CLK
+clk => state~19.DATAIN
+sw_a => state~0.OUTPUTSELECT
+sw_a => state~1.OUTPUTSELECT
+sw_a => Selector1.IN2
+sw_b => state~1.DATAA
+sw_b => state~0.DATAA
+count[0] <= cnt[0].DB_MAX_OUTPUT_PORT_TYPE
+count[1] <= cnt[1].DB_MAX_OUTPUT_PORT_TYPE
+count[2] <= cnt[2].DB_MAX_OUTPUT_PORT_TYPE
+count[3] <= cnt[3].DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,15 @@
+|adc_control
+nRst => oe~reg0.ACLR
+nRst => sc~reg0.ACLR
+nRst => state~15.DATAIN
+clk => oe~reg0.CLK
+clk => sc~reg0.CLK
+clk => state~11.DATAIN
+t => sc~0.DATAB
+t => Selector0.IN2
+dr => oe~0.DATAB
+dr => Selector1.IN2
+sc <= sc~reg0.DB_MAX_OUTPUT_PORT_TYPE
+oe <= oe~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

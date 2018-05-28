@@ -1,0 +1,25 @@
+|adc
+nRst => cnt[0].ACLR
+nRst => cnt[1].ACLR
+nRst => cnt[2].ACLR
+nRst => cnt[3].ACLR
+nRst => dr~reg0.ACLR
+nRst => state~22.DATAIN
+clk => cnt[0].CLK
+clk => cnt[1].CLK
+clk => cnt[2].CLK
+clk => cnt[3].CLK
+clk => dr~reg0.CLK
+clk => state~18.DATAIN
+dr <= dr~reg0.DB_MAX_OUTPUT_PORT_TYPE
+sc => Selector1.IN3
+sc => Selector0.IN2
+oe => Selector3.IN3
+oe => Selector4.IN2
+oe => Selector2.IN2
+data[0] <= data~3.DB_MAX_OUTPUT_PORT_TYPE
+data[1] <= data~2.DB_MAX_OUTPUT_PORT_TYPE
+data[2] <= data~1.DB_MAX_OUTPUT_PORT_TYPE
+data[3] <= data~0.DB_MAX_OUTPUT_PORT_TYPE
+
+
