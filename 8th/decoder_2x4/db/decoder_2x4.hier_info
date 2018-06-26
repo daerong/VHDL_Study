@@ -1,0 +1,15 @@
+|decoder_2x4
+SELD[0] => Equal0.IN5
+SELD[0] => Equal1.IN5
+SELD[0] => Equal2.IN5
+SELD[0] => Equal3.IN5
+SELD[1] => Equal0.IN4
+SELD[1] => Equal1.IN4
+SELD[1] => Equal2.IN4
+SELD[1] => Equal3.IN4
+A <= Equal0.DB_MAX_OUTPUT_PORT_TYPE
+B <= Equal1.DB_MAX_OUTPUT_PORT_TYPE
+C <= Equal2.DB_MAX_OUTPUT_PORT_TYPE
+D <= Equal3.DB_MAX_OUTPUT_PORT_TYPE
+
+

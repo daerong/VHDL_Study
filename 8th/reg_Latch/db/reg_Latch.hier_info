@@ -1,0 +1,35 @@
+|reg_Latch
+clk => inner_data[0].CLK
+clk => inner_data[1].CLK
+clk => inner_data[2].CLK
+clk => inner_data[3].CLK
+clk => inner_data[4].CLK
+clk => inner_data[5].CLK
+clk => inner_data[6].CLK
+clk => inner_data[7].CLK
+load => inner_data[0].ENA
+load => inner_data[1].ENA
+load => inner_data[2].ENA
+load => inner_data[3].ENA
+load => inner_data[4].ENA
+load => inner_data[5].ENA
+load => inner_data[6].ENA
+load => inner_data[7].ENA
+in_data[0] => inner_data[0].DATAIN
+in_data[1] => inner_data[1].DATAIN
+in_data[2] => inner_data[2].DATAIN
+in_data[3] => inner_data[3].DATAIN
+in_data[4] => inner_data[4].DATAIN
+in_data[5] => inner_data[5].DATAIN
+in_data[6] => inner_data[6].DATAIN
+in_data[7] => inner_data[7].DATAIN
+Q[0] <= inner_data[0].DB_MAX_OUTPUT_PORT_TYPE
+Q[1] <= inner_data[1].DB_MAX_OUTPUT_PORT_TYPE
+Q[2] <= inner_data[2].DB_MAX_OUTPUT_PORT_TYPE
+Q[3] <= inner_data[3].DB_MAX_OUTPUT_PORT_TYPE
+Q[4] <= inner_data[4].DB_MAX_OUTPUT_PORT_TYPE
+Q[5] <= inner_data[5].DB_MAX_OUTPUT_PORT_TYPE
+Q[6] <= inner_data[6].DB_MAX_OUTPUT_PORT_TYPE
+Q[7] <= inner_data[7].DB_MAX_OUTPUT_PORT_TYPE
+
+
